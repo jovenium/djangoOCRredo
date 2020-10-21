@@ -14,12 +14,21 @@ psql postgres postgres
 ```
 Quit with ```\q```
 
+Watch all tables with ```\dt```
+Watch a table with ```\d tablename```
+
 ### Django Command
 ```
 django-admin startproject <projectname>
 ```
 ```
 ./manage.py migrate
+```
+```
+python3 manage.py showmigrations
+```
+```
+python3 manage.py makemigrations
 ```
 
 ### Make a service 
