@@ -23,5 +23,5 @@ Third and fourth weeks:
 ![Certification](https://github.com/jovenium/djangoOCRredo/blob/main/certification_OCR.png?raw=true)
 
 
-Cya, Jovenium 🌹🍂
-
+Cya, Jovenium 🌹🍂\
+\#group-61
